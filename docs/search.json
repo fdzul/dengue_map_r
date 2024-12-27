@@ -2,30 +2,30 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Detalles",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Cursos presencial los sabados durante un mes."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Objetivo General",
+    "title": "Audiencia",
     "section": "",
-    "text": "Objetivo General\n\n\nObjetivos especificos\nFormato del Curso\nZona horaria\nDetalles del Curso\nRequisitos de conceptos teóricos\nEs ideal tener conocimientos de los conceptos básicos de los sistemas de información geográfica (SIG), como vector (puntos, líneas y polígonos), ráster y sistemas de referencia de coordenadas (Coordinate Reference System = CRS), pero no es necesario.\nRequisitos computacionales\nEs deseable tener experiencia en R o Python o cualquier otro lenguaje de programación, principalemente en subir archivos de texto (csv, txt, xlsx), archivos geográficos, crear gráficos simples y manipular bases de datos en R. Sin embargo, si no se tiene experiencia con R pero ya usa software SIG y tiene un conocimiento sólido de los tipos de datos geográficos, algo o nula experiencia en programación, el curso también puede ser apropiado para usted siempre y cuando tenga la necesidad o el deseo aprender nuevas herramientas para la elaboración y diseño de mapas en R.\nRequisitos de Equipo & Software\n\nComputadora\nSe requiere una computadora portátil o de escritorio con una versión funcional de R, RStudio y Rtools. R y RStudio están disponibles como software gratuito y de código abierto para PC, Mac y Linux. R y Rtools se puede descargar siguiendo el enlace https://www.r-project.org/. RStudio se puede descargar siguiendo el enlace: https://posit.co/.\nExperiencia en la instalación de paquetes en R.\nTodos los paquetes R que utilizaremos en este curso se podrán descargar e instalar durante el taller en sí, según sea necesario, y se pondrá a disposición de todos los asistentes una lista completa de los paquetes necesarios antes del curso\nClaves del SINAVE.\nEs importante contar con su usuario y contraseña del modulo de vectores del SINAVE. En el taller se usarán las bases de datos de vectores (principalmente DENGUE) para la elaboración de los mapas.\n\nRequisitos adicionales\nEs conveniente contar con una cámara web que funcione para mejorar la interactividad durante las sesiones. Así mismo, recomendamos a los asistentes que mantengan sus cámaras encendidas durante las sesiones y microfonos apagados. Aunque no es estrictamente obligatorio, el uso de un monitor grande o, preferiblemente, incluso un segundo monitor mejorará la experiencia de aprendizaje."
+    "text": "Audiencia\nEl taller de elaboración de mapas en R es un curso-taller básico y forma parte de los requisitos para el curso Análisis Espacial del Dengue en R que se impartirá durante la Reunión Nacional de Vectores del 2025 organizada por el Centro Nacional de Prevención y Control de Enfermedades de la Secretaria de Salud en colaboración con el Instituto Nacionald de Salud Pública.Ambos cursos están complementados con el desarrollo de paquetes colectivamente llamados dengueverse (rgeomex, denhotspots, deneggs, dencontrol, denepikit) y el manual para la identificación de los hotspots en las localidades urbanas endémicas.\nTanto los cursos, los paquetes y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema.\n\n\nObjetivo General\nEl taller títulado Elaboración de Mapas en R tiene como objetivo central desarrollar las competencias específicas para la elaboración, diseño e implementación de mapas de dengue en R con la finalidad de que el personal del programa adquiera herramientas para orientar las acciones de prevención y control focalizadas del Manejo Integrado de las Arbovirosis en México.\n\n\nObjetivos Específicos\n\nElaborar mapas estáticos del dengue en R.\nElaborar mapas interáctivos del dengue en R.\nElaborar mapas dinamicos del dengue en R."
   },
   {
     "objectID": "index.html#formato-del-curso",
     "href": "index.html#formato-del-curso",
-    "title": "Elaboración de Mapas en R (2025)",
+    "title": "Audiencia",
     "section": "Formato del Curso",
-    "text": "Formato del Curso"
+    "text": "Formato del Curso\nCursos presencial los sabados durante un mes."
   },
   {
     "objectID": "index.html#zona-horaria",
     "href": "index.html#zona-horaria",
-    "title": "Elaboración de Mapas en R (2025)",
+    "title": "Audiencia",
     "section": "Zona horaria",
-    "text": "Zona horaria"
+    "text": "Zona horaria\nClases:\n\n8 am a 11 pm de Ciudad de Mexico\nsabados\n\nMéxico posee 4 zonas horarias según el Centro Nacional de Metrología:\n\nTiempo del Sureste (UTC-5) Una hora más que CdMx\nQuintana Roo.\nTiempo del Centro (UTC-6 y UTC-5 en horario de verano)\nCiudad de México (Distrito Federal), Aguascalientes, Campeche, Chiapas, Coahuila, Colima, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, estado de México, Michoacán, Morelos, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis de Potosí, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, y Zacatecas.\nTiempo del Pacífico (UTC-7 y UTC-6 en horario de Verano) Una hora menos que CdMx\nBaja California Sur, Chihuahua, Nayarit, Sinaloa, y Sonora.\nTiempo del Noroeste (UTC-8) Dos horas más que CdMx\nBaja California."
   },
   {
     "objectID": "index.html#detalles-del-curso",
@@ -37,21 +37,21 @@
   {
     "objectID": "index.html#requisitos-de-conceptos-teóricos",
     "href": "index.html#requisitos-de-conceptos-teóricos",
-    "title": "Elaboración de Mapas en R (2025)",
+    "title": "Audiencia",
     "section": "Requisitos de conceptos teóricos",
     "text": "Requisitos de conceptos teóricos\nEs ideal tener conocimientos de los conceptos básicos de los sistemas de información geográfica (SIG), como vector (puntos, líneas y polígonos), ráster y sistemas de referencia de coordenadas (Coordinate Reference System = CRS), pero no es necesario."
   },
   {
     "objectID": "index.html#requisitos-computacionales",
     "href": "index.html#requisitos-computacionales",
-    "title": "Elaboración de Mapas en R (2025)",
+    "title": "Audiencia",
     "section": "Requisitos computacionales",
     "text": "Requisitos computacionales\nEs deseable tener experiencia en R o Python o cualquier otro lenguaje de programación, principalemente en subir archivos de texto (csv, txt, xlsx), archivos geográficos, crear gráficos simples y manipular bases de datos en R. Sin embargo, si no se tiene experiencia con R pero ya usa software SIG y tiene un conocimiento sólido de los tipos de datos geográficos, algo o nula experiencia en programación, el curso también puede ser apropiado para usted siempre y cuando tenga la necesidad o el deseo aprender nuevas herramientas para la elaboración y diseño de mapas en R."
   },
   {
     "objectID": "index.html#requisitos-de-equipo-software",
     "href": "index.html#requisitos-de-equipo-software",
-    "title": "Elaboración de Mapas en R (2025)",
+    "title": "Audiencia",
     "section": "Requisitos de Equipo & Software",
     "text": "Requisitos de Equipo & Software\n\nComputadora\nSe requiere una computadora portátil o de escritorio con una versión funcional de R, RStudio y Rtools. R y RStudio están disponibles como software gratuito y de código abierto para PC, Mac y Linux. R y Rtools se puede descargar siguiendo el enlace https://www.r-project.org/. RStudio se puede descargar siguiendo el enlace: https://posit.co/.\nExperiencia en la instalación de paquetes en R\nTodos los paquetes R que utilizaremos en este curso se podrán descargar e instalar durante el taller en sí, según sea necesario, y se pondrá a disposición de todos los asistentes una lista completa de los paquetes necesarios antes del curso\nClaves del SINAVE\nEs importante contar con su usuario y contraseña del modulo de vectores del SINAVE. En el taller se usarán las bases de datos de vectores (principalmente DENGUE) para la elaboración de los mapas.\nRequisitos adicionales\nEs conveniente contar con una cámara web que funcione para mejorar la interactividad durante las sesiones. Así mismo, recomendamos a los asistentes que mantengan sus cámaras encendidas durante las sesiones y microfonos apagados. Aunque no es estrictamente obligatorio, el uso de un monitor grande o, preferiblemente, incluso un segundo monitor mejorará la experiencia de aprendizaje."
   },
@@ -61,5 +61,40 @@
     "title": "Elaboración de Mapas en R (2025)",
     "section": "Objetivos especificos",
     "text": "Objetivos especificos"
+  },
+  {
+    "objectID": "about.html#formato-del-curso",
+    "href": "about.html#formato-del-curso",
+    "title": "Detalles",
+    "section": "",
+    "text": "Cursos presencial los sabados durante un mes."
+  },
+  {
+    "objectID": "about.html#zona-horaria",
+    "href": "about.html#zona-horaria",
+    "title": "Detalles",
+    "section": "Zona horaria",
+    "text": "Zona horaria\nClases:\n\n8 am a 11 pm de Ciudad de Mexico\nsabados\n\nMéxico posee 4 zonas horarias según el Centro Nacional de Metrología:\n\nTiempo del Sureste (UTC-5) Una hora más que CdMx\nQuintana Roo.\nTiempo del Centro (UTC-6 y UTC-5 en horario de verano)\nCiudad de México (Distrito Federal), Aguascalientes, Campeche, Chiapas, Coahuila, Colima, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, estado de México, Michoacán, Morelos, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis de Potosí, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, y Zacatecas.\nTiempo del Pacífico (UTC-7 y UTC-6 en horario de Verano) Una hora menos que CdMx\nBaja California Sur, Chihuahua, Nayarit, Sinaloa, y Sonora.\nTiempo del Noroeste (UTC-8) Dos horas más que CdMx\nBaja California."
+  },
+  {
+    "objectID": "about.html#requisitos-de-conceptos-teóricos",
+    "href": "about.html#requisitos-de-conceptos-teóricos",
+    "title": "Detalles",
+    "section": "Requisitos de conceptos teóricos",
+    "text": "Requisitos de conceptos teóricos\nEs ideal tener conocimientos de los conceptos básicos de los sistemas de información geográfica (SIG), como vector (puntos, líneas y polígonos), ráster y sistemas de referencia de coordenadas (Coordinate Reference System = CRS), pero no es necesario."
+  },
+  {
+    "objectID": "about.html#requisitos-computacionales",
+    "href": "about.html#requisitos-computacionales",
+    "title": "Detalles",
+    "section": "Requisitos computacionales",
+    "text": "Requisitos computacionales\nEs deseable tener experiencia en R o Python o cualquier otro lenguaje de programación, principalemente en subir archivos de texto (csv, txt, xlsx), archivos geográficos, crear gráficos simples y manipular bases de datos en R. Sin embargo, si no se tiene experiencia con R pero ya usa software SIG y tiene un conocimiento sólido de los tipos de datos geográficos, algo o nula experiencia en programación, el curso también puede ser apropiado para usted siempre y cuando tenga la necesidad o el deseo aprender nuevas herramientas para la elaboración y diseño de mapas en R."
+  },
+  {
+    "objectID": "about.html#requisitos-de-equipo-software",
+    "href": "about.html#requisitos-de-equipo-software",
+    "title": "Detalles",
+    "section": "Requisitos de Equipo & Software",
+    "text": "Requisitos de Equipo & Software\n\nComputadora\nSe requiere una computadora portátil o de escritorio con una versión funcional de R, RStudio y Rtools. R y RStudio están disponibles como software gratuito y de código abierto para PC, Mac y Linux. R y Rtools se puede descargar siguiendo el enlace https://www.r-project.org/. RStudio se puede descargar siguiendo el enlace: https://posit.co/.\nExperiencia en la instalación de paquetes en R\nTodos los paquetes R que utilizaremos en este curso se podrán descargar e instalar durante el taller en sí, según sea necesario, y se pondrá a disposición de todos los asistentes una lista completa de los paquetes necesarios antes del curso\nClaves del SINAVE\nEs importante contar con su usuario y contraseña del modulo de vectores del SINAVE. En el taller se usarán las bases de datos de vectores (principalmente DENGUE) para la elaboración de los mapas.\nRequisitos adicionales\nEs conveniente contar con una cámara web que funcione para mejorar la interactividad durante las sesiones. Así mismo, recomendamos a los asistentes que mantengan sus cámaras encendidas durante las sesiones y microfonos apagados. Aunque no es estrictamente obligatorio, el uso de un monitor grande o, preferiblemente, incluso un segundo monitor mejorará la experiencia de aprendizaje."
   }
 ]
