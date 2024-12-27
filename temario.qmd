@@ -2,8 +2,6 @@
 title: ""
 ---
 
-## Temario
-
 ## Módulo I. Requisitos Básicos
 
 ```{r temario_modulo_1, echo=FALSE}

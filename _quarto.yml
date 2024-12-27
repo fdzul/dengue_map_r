@@ -21,7 +21,7 @@ website:
       - href: about.qmd
         text: Detalles
       - href: temario.qmd
-      - text: Temario
+        text: Temario
 
 format:
   html:
