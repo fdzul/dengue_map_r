@@ -18,4 +18,4 @@ El taller títulado **Elaboración de Mapas en R** tiene como objetivo central d
 
 2.  Elaborar mapas interáctivos del dengue en R.
 
-3.  Elaborar mapas dinamicos del dengue en R.
+3.  Elaborar mapas dinámicos del dengue en R.
