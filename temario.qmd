@@ -1,0 +1,30 @@
+---
+title: "Temario"
+---
+
+
+## Temario
+
+## Módulo I. Requisitos Básicos
+
+```{r temario_modulo_1, echo=FALSE}
+tibble::tibble(Tema = c("Instalar R",
+                         "Instalar RStudio",
+                         "Introducción a RStudio",
+                         "Instalación de Paquetes desde CRAN",
+                         "Instalación de Paquetes desde github",
+                         "Instalación de Paquetes desde un archivo",
+                         "Instalación de Paquetes para el análisis espacial",
+                         "Instalación de Paquetes desarrollados por CENAPRECE-InDRE",
+                        "Datos Espaciales"),
+               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", times = 9))) |>
+    reactable::reactable(defaultPageSize = 10,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 10,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
