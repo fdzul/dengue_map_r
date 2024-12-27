@@ -27,7 +27,8 @@ website:
         text: Laboratorios
       - href: links.qmd
         text: Referencias
-
+      - href: contacto.qmd
+        text: Contacto
 
 format:
   html:
