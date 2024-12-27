@@ -1,5 +1,5 @@
 ---
-title: "Detalles"
+title: ""
 ---
 
 ## Formato del Curso
@@ -10,60 +10,49 @@ Cursos presencial los sabados durante un mes.
 
 **Clases:**
 
-- 8 am a 11 pm de Ciudad de Mexico
-- sabados 
+-   8 am a 11 pm de Ciudad de Mexico
+-   sabados
 
 México posee 4 zonas horarias según el Centro Nacional de Metrología:
 
-- **Tiempo del Sureste (UTC-5)** Una hora más que CdMx
-  
-  Quintana Roo.
+-   **Tiempo del Sureste (UTC-5)** Una hora más que CdMx
 
-- **Tiempo del Centro (UTC-6 y UTC-5 en horario de verano)** 
+    Quintana Roo.
 
-  Ciudad de México (Distrito Federal), Aguascalientes, Campeche, Chiapas, Coahuila, Colima, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, estado de México, Michoacán, Morelos, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis de Potosí, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, y Zacatecas.
+-   **Tiempo del Centro (UTC-6 y UTC-5 en horario de verano)**
 
-- **Tiempo del Pacífico (UTC-7 y UTC-6 en horario de Verano)** Una hora menos que CdMx
-  
-  Baja California Sur, Chihuahua, Nayarit, Sinaloa, y Sonora.
+    Ciudad de México (Distrito Federal), Aguascalientes, Campeche, Chiapas, Coahuila, Colima, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, estado de México, Michoacán, Morelos, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis de Potosí, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, y Zacatecas.
 
-- **Tiempo del Noroeste (UTC-8)** Dos horas más que CdMx
-  
-  Baja California.
+-   **Tiempo del Pacífico (UTC-7 y UTC-6 en horario de Verano)** Una hora menos que CdMx
 
+    Baja California Sur, Chihuahua, Nayarit, Sinaloa, y Sonora.
 
+-   **Tiempo del Noroeste (UTC-8)** Dos horas más que CdMx
 
+    Baja California.
 
-## Requisitos de conceptos teóricos 
+## Requisitos de conceptos teóricos
 
-Es ideal tener conocimientos de los conceptos básicos de los sistemas de información geográfica (SIG), como vector (puntos, líneas y polígonos), ráster y sistemas de referencia de coordenadas (Coordinate Reference System = CRS), pero no es necesario. 
-
+Es ideal tener conocimientos de los conceptos básicos de los sistemas de información geográfica (SIG), como vector (puntos, líneas y polígonos), ráster y sistemas de referencia de coordenadas (Coordinate Reference System = CRS), pero no es necesario.
 
 ## Requisitos computacionales
 
-Es deseable tener experiencia en R o Python o cualquier otro lenguaje de programación, principalemente en subir archivos de texto (csv, txt, xlsx), archivos geográficos, crear gráficos simples y manipular bases de datos en R. Sin embargo, si no se tiene experiencia con R pero ya usa software SIG y tiene un conocimiento sólido de los tipos de datos geográficos, algo o nula experiencia en programación, el curso también puede ser apropiado para usted siempre y cuando tenga la necesidad o el deseo aprender nuevas herramientas para la elaboración y diseño de mapas en R. 
-
+Es deseable tener experiencia en R o Python o cualquier otro lenguaje de programación, principalemente en subir archivos de texto (csv, txt, xlsx), archivos geográficos, crear gráficos simples y manipular bases de datos en R. Sin embargo, si no se tiene experiencia con R pero ya usa software SIG y tiene un conocimiento sólido de los tipos de datos geográficos, algo o nula experiencia en programación, el curso también puede ser apropiado para usted siempre y cuando tenga la necesidad o el deseo aprender nuevas herramientas para la elaboración y diseño de mapas en R.
 
 ## Requisitos de Equipo & Software
 
-- **Computadora**
-  
-  Se requiere una computadora portátil o de escritorio con una versión funcional de R, RStudio y Rtools. R y RStudio están disponibles como software gratuito y de código abierto para PC, Mac y Linux. R y Rtools se puede descargar siguiendo el enlace <https://www.r-project.org/>. RStudio se puede descargar siguiendo el enlace: <https://posit.co/>.
-  
-- **Experiencia en la instalación de paquetes en R**
-  
-  Todos los paquetes R que utilizaremos en este curso se podrán descargar e instalar durante el taller en sí, según sea necesario, y se pondrá a disposición de todos los asistentes una lista completa de los paquetes necesarios antes del curso
+-   **Computadora**
 
-- **Claves del SINAVE**
+    Se requiere una computadora portátil o de escritorio con una versión funcional de R, RStudio y Rtools. R y RStudio están disponibles como software gratuito y de código abierto para PC, Mac y Linux. R y Rtools se puede descargar siguiendo el enlace <https://www.r-project.org/>. RStudio se puede descargar siguiendo el enlace: <https://posit.co/>.
 
-  Es importante contar con su usuario y contraseña del modulo de vectores del SINAVE. En el taller se usarán las bases de datos de vectores (principalmente DENGUE) para la elaboración de los mapas.
+-   **Experiencia en la instalación de paquetes en R**
 
+    Todos los paquetes R que utilizaremos en este curso se podrán descargar e instalar durante el taller en sí, según sea necesario, y se pondrá a disposición de todos los asistentes una lista completa de los paquetes necesarios antes del curso
 
-- **Requisitos adicionales**
+-   **Claves del SINAVE**
 
-  Es conveniente contar con una cámara web que funcione para mejorar la interactividad durante las sesiones. Así mismo, recomendamos a los asistentes que mantengan sus cámaras encendidas durante las sesiones y microfonos apagados. Aunque no es estrictamente obligatorio, el uso de un monitor grande o, preferiblemente, incluso un segundo monitor mejorará la experiencia de aprendizaje.
+    Es importante contar con su usuario y contraseña del modulo de vectores del SINAVE. En el taller se usarán las bases de datos de vectores (principalmente DENGUE) para la elaboración de los mapas.
 
+-   **Requisitos adicionales**
 
-
-
-
+    Es conveniente contar con una cámara web que funcione para mejorar la interactividad durante las sesiones. Así mismo, recomendamos a los asistentes que mantengan sus cámaras encendidas durante las sesiones y microfonos apagados. Aunque no es estrictamente obligatorio, el uso de un monitor grande o, preferiblemente, incluso un segundo monitor mejorará la experiencia de aprendizaje.

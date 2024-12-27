@@ -5,10 +5,23 @@ project:
 website:
   title: "Elaboración de Mapas en R (2025)"
   navbar:
+    logo: imagenes/logo_curso_2024.png
+    tools:
+      - icon: twitter
+        href: https://twitter.com/FdzulM
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://code.com
+          - text: Report a Bug
+            url:  https://bugs.com
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Objetivos
+      - href: about.qmd
+        text: Detalles
+      - href: temario.qmd
+      - text: Temario
 
 format:
   html:
