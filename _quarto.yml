@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  page-footer: "Copyright 2025, Felipe Antonio Dzul Manzanilla | Fabián Correa-Morales"
   title: "Elaboración de Mapas en R (2025)"
   navbar:
     logo: imagenes/logo_curso_2024.png
@@ -22,7 +23,8 @@ website:
         text: Detalles
       - href: temario.qmd
         text: Temario
-
+      - href: labs.qmd
+        text: Laboratorios
 format:
   html:
     theme: cosmo
