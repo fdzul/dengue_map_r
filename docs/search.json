@@ -222,5 +222,12 @@
     "title": "Elaboración de Mapas de Dengue en R (2025)",
     "section": "Módulo VI. Mapas en 3D",
     "text": "Módulo VI. Mapas en 3D"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Geocomputacion with R",
+    "section": "",
+    "text": "Geocomputacion with R\n\n\n\n\nGeocomputacion with Python\n\n\n\n\nGeocomputacion with Julia\n\n\n\nSpatial Data SCience in R"
   }
 ]
