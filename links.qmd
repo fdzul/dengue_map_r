@@ -1,3 +1,8 @@
 ---
 title: ""
 ---
+
+***
+# Geocomputacion with R
+
+![](https://geocompx.org/static/img/book_cover_r2.jpg)

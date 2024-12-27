@@ -45,7 +45,67 @@ tibble::tibble(Tema = c("Datos Geográficos",
 ```{r temario_modulo_III, echo=FALSE}
 tibble::tibble(Tema = c("Paquetes para elaborar mapas estáticos",
                         "Mapas estáticos de área",
-                        "Mapas estáticos de puntos"),
+                        "Mapas estáticos de puntos",
+                        "Mapas estáticos de áreas & puntos"),
+               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", 
+                                  times = 4))) |>
+    reactable::reactable(defaultPageSize = 4,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 4,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+## Módulo IV. Mapas Animados
+
+```{r temario_modulo_IV, echo=FALSE}
+tibble::tibble(Tema = c("Paquetes para elaborar mapas animados",
+                        "Mapas animados de área",
+                        "Mapas animados de puntos",
+                        "Mapas estáticos de áreas & puntos"),
+               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", 
+                                  times = 4))) |>
+    reactable::reactable(defaultPageSize = 4,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 4,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+## Módulo V. Mapas Interáctivos
+
+```{r temario_modulo_V, echo=FALSE}
+tibble::tibble(Tema = c("Paquetes para elaborar mapas animados",
+                        "Mapas animados de área",
+                        "Mapas animados de puntos",
+                        "Mapas estáticos de áreas & puntos"),
+               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", 
+                                  times = 4))) |>
+    reactable::reactable(defaultPageSize = 4,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 4,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+## Módulo VI. Mapas en 3D
+
+```{r temario_modulo_VI, echo=FALSE}
+tibble::tibble(Tema = c("Paquetes para elaborar mapas en 3D",
+                        "Mapas 3D de área",
+                        "Mapas 3D de puntos"),
                Instructor = c(rep("Felipe Antonio Dzul Manzanilla", 
                                   times = 3))) |>
     reactable::reactable(defaultPageSize = 4,
@@ -58,14 +118,5 @@ tibble::tibble(Tema = c("Paquetes para elaborar mapas estáticos",
                          bordered = TRUE)
 
 ```
-
-
-## Módulo V. Mapas Animados
-
-## Módulo IV. Mapas Interáctivos
-
-## Módulo V. Mapas en 3D
-
-
 
 
