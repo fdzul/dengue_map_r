@@ -30,11 +30,11 @@ tibble::tibble(Tema = c("Datos Geográficos",
                         "Operaciones Básicas: Cinco Verbos",
                         "Operaciones Espaciales"),
                Instructor = c(rep("Felipe Antonio Dzul Manzanilla", times = 3))) |>
-    reactable::reactable(defaultPageSize = 7,
+    reactable::reactable(defaultPageSize = 4,
                          theme = reactablefmtr::flatly(),
                          filterable = FALSE,
                          striped = TRUE,
-                         minRows = 7,
+                         minRows = 4,
                          resizable = TRUE, 
                          wrap = FALSE, 
                          bordered = TRUE)
@@ -42,18 +42,17 @@ tibble::tibble(Tema = c("Datos Geográficos",
 ```
 
 ## Módulo III. Mapas Estáticos
-
 ```{r temario_modulo_III, echo=FALSE}
 tibble::tibble(Tema = c("Paquetes para elaborar mapas estáticos",
                         "Mapas estáticos de área",
                         "Mapas estáticos de puntos"),
                Instructor = c(rep("Felipe Antonio Dzul Manzanilla", 
                                   times = 3))) |>
-    reactable::reactable(defaultPageSize = 8,
+    reactable::reactable(defaultPageSize = 4,
                          theme = reactablefmtr::flatly(),
                          filterable = FALSE,
                          striped = TRUE,
-                         minRows = 8,
+                         minRows = 4,
                          resizable = TRUE, 
                          wrap = FALSE, 
                          bordered = TRUE)
@@ -61,7 +60,12 @@ tibble::tibble(Tema = c("Paquetes para elaborar mapas estáticos",
 ```
 
 
+## Módulo V. Mapas Animados
+
 ## Módulo IV. Mapas Interáctivos
 
+## Módulo V. Mapas en 3D
 
-## Módulo V. Mapas Dinámicos
+
+
+
