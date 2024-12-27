@@ -4,24 +4,64 @@ title: ""
 
 ## Módulo I. Requisitos Básicos
 
-```{r temario_modulo_1, echo=FALSE}
-tibble::tibble(Tema = c("Instalar R",
-                         "Instalar RStudio",
-                         "Introducción a RStudio",
-                         "Instalación de Paquetes desde CRAN",
-                         "Instalación de Paquetes desde github",
-                         "Instalación de Paquetes desde un archivo",
-                         "Instalación de Paquetes para el análisis espacial",
-                         "Instalación de Paquetes desarrollados por CENAPRECE-InDRE",
-                        "Datos Espaciales"),
-               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", times = 9))) |>
-    reactable::reactable(defaultPageSize = 10,
+```{r temario_modulo_I, echo=FALSE}
+tibble::tibble(Tema = c("Instalar R y Rtools",
+                        "IDEs & RStudio",
+                        "Instalación de Paquetes desde CRAN, github y archivo",
+                        "Instalación de Paquetes para el análisis espacial",
+                        "Datos Básicos para elaborar un mapa",
+                        "Mi primer mapa en R",
+                        "Tipos de Datos Espaciales y el dengueverse en R"),
+               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", times = 7))) |>
+    reactable::reactable(defaultPageSize = 7,
                          theme = reactablefmtr::flatly(),
                          filterable = FALSE,
                          striped = TRUE,
-                         minRows = 10,
+                         minRows = 7,
                          resizable = TRUE, 
                          wrap = FALSE, 
                          bordered = TRUE)
 
 ```
+
+## Módulo II. Operaciones espaciales.
+```{r temario_modulo_II, echo=FALSE}
+tibble::tibble(Tema = c("Datos Geográficos",
+                        "Operaciones Básicas: Cinco Verbos",
+                        "Operaciones Espaciales"),
+               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", times = 3))) |>
+    reactable::reactable(defaultPageSize = 7,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 7,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+## Módulo III. Mapas Estáticos
+
+```{r temario_modulo_III, echo=FALSE}
+tibble::tibble(Tema = c("Paquetes para elaborar mapas estáticos",
+                        "Mapas estáticos de área",
+                        "Mapas estáticos de puntos"),
+               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", 
+                                  times = 3))) |>
+    reactable::reactable(defaultPageSize = 8,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 8,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+
+## Módulo IV. Mapas Interáctivos
+
+
+## Módulo V. Mapas Dinámicos
