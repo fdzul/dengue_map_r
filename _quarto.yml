@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Elaboración de Mapas en R"
+  title: "Elaboración de Mapas en R (2025)"
   navbar:
     left:
       - href: index.qmd
