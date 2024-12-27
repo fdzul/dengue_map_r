@@ -25,6 +25,10 @@ website:
         text: Temario
       - href: labs.qmd
         text: Laboratorios
+      - href: links.qmd
+        text: Referencias
+
+
 format:
   html:
     theme: cosmo
