@@ -20,6 +20,8 @@ title: ""
 
 [![](https://geocompx.org/static/img/book_cover_jl.png)](https://jl.geocompx.org)
 
+------------------------------------------------------------------------
+
 # Spatial Data SCience in R
 
 [![](https://r-spatial.org/book/images/cover.jpg)](https://r-spatial.org/book/)
