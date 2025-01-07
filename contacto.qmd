@@ -18,6 +18,8 @@ Google académico: <https://scholar.google.es/citations?user=3e3-4VkAAAAJ&hl=es>
 
 github: <https://github.com/fdzul>
 
+bio : <https://sparkly-kleicha-e38ffa.netlify.app>
+
 insp: <https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio>
 
 ------------------------------------------------------------------------
@@ -46,7 +48,6 @@ Google académico: https://scholar.google.es/citations?user=wl8S934AAAAJ&hl=es
 
 insp: <https://insp.mx/centros/sistemas-de-salud/investigador/gomez-dantes-hector>
 
-
 ------------------------------------------------------------------------
 
 # Dra. Grea Litai Moreno Banda
@@ -60,8 +61,3 @@ Correo: glmoreno\@@insp.mx
 Google académico: ?
 
 insp: <https://www.insp.mx/investigador/grea-litai-moreno-banda/6PxlYvQJW5>
-
-
-
-
-

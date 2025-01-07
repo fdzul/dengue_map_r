@@ -2,32 +2,24 @@
 title: ""
 ---
 
-***
+------------------------------------------------------------------------
 
 # Geocomputacion with R
 
 [![](https://geocompx.org/static/img/book_cover_r2.jpg)](https://r.geocompx.org)
 
-
-***
+------------------------------------------------------------------------
 
 # Geocomputacion with Python
 
 [![](https://geocompx.org/static/img/book_cover_py.png)](https://py.geocompx.org)
 
-
-
-
-***
+------------------------------------------------------------------------
 
 # Geocomputacion with Julia
 
 [![](https://geocompx.org/static/img/book_cover_jl.png)](https://jl.geocompx.org)
 
-
-
 # Spatial Data SCience in R
 
 [![](https://r-spatial.org/book/images/cover.jpg)](https://r-spatial.org/book/)
-
-
