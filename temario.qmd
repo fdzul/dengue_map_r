@@ -25,6 +25,7 @@ tibble::tibble(Tema = c("Instalar R y Rtools",
 ```
 
 ## Módulo II. Operaciones espaciales.
+
 ```{r temario_modulo_II, echo=FALSE}
 tibble::tibble(Tema = c("Datos Geográficos",
                         "Operaciones Básicas: Cinco Verbos",
@@ -42,6 +43,7 @@ tibble::tibble(Tema = c("Datos Geográficos",
 ```
 
 ## Módulo III. Mapas Estáticos
+
 ```{r temario_modulo_III, echo=FALSE}
 tibble::tibble(Tema = c("Paquetes para elaborar mapas estáticos",
                         "Mapas estáticos de área",
@@ -118,5 +120,3 @@ tibble::tibble(Tema = c("Paquetes para elaborar mapas en 3D",
                          bordered = TRUE)
 
 ```
-
-
